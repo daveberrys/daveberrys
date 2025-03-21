@@ -4,9 +4,9 @@ Im a silly little haxe coder :3
 
 I'm still a newbie at haxe, so expect me to be terrible lol !!
 
-#
+# Anyways,
 
-Anyways, I'm a stupid 14 year old male who lives in malaysia [(Full About Me)](https://daveberry.netlify.app/daveberry/aboutme)
+I'm a stupid 14 year old male who lives in malaysia [(Full About Me)](https://daveberry.netlify.app/daveberry/aboutme)
 
 My links areeeee [here!](https://daveberry.netlify.app/)
 
