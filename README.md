@@ -1,16 +1,23 @@
-## Hi there 👋
+## trace("Hello World!")
 
-<!--
-**daveberrys/daveberrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a silly little haxe coder :3
 
-Here are some ideas to get you started:
+I'm still a newbie at haxe, so expect me to be terrible lol !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+Anyways, I'm a stupid 14 year old male who lives in malaysia [(Full About Me)](https://daveberry.netlify.app/daveberry/aboutme)
+
+My links areeeee [here!](https://daveberry.netlify.app/)
+
+Ways to contact me? Discord (daveberrys) and [Bluesky](https://bsky.app/profile/weirdpersontbh.bsky.social) !
+
+# Fun Facts
+
+I stupid. (wow surprising i know :3)
+
+I used to be a developer of [Universe Engine](https://github.com/VideoBotYT/Universe-Engine). (bad engine, dont play or use it)
+
+I'm NOT homophobic or transphobic.
+
+Used to code in Psych Engine Lua, Now codes in Codename Engine Haxe!
