@@ -10,7 +10,7 @@ I'm a stupid 14 year old male who lives in malaysia [(Full About Me)](https://da
 
 My links areeeee [here!](https://daveberry.netlify.app/)
 
-Ways to contact me? Discord (daveberrys), [Bluesky](https://bsky.app/profile/weirdpersontbh.bsky.social) and Matrix! (@daveberry:matrix.org) !
+Ways to contact me? Discord (daveberrys), [Bluesky](https://bsky.app/profile/weirdpersontbh.bsky.social) and Matrix (@daveberry:matrix.org) !
 
 # Fun Facts
 
