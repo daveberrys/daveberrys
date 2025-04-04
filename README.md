@@ -14,7 +14,7 @@ I'm a <b>14y Male Teenager</b> who does:
 
 <b> • <img src="images/art palette.png" width="25" height="25"> Art & Graphic Design. </b>
 
-<b> • <img src="images/musical notes.png" width="25" height="25"> Composing. </b>
+<b> • <img src="images/musical notes.png" width="25" height="25"> Music. </b>
 
 <details>
     <summary><h2>Other Things about me</h2></summary>
