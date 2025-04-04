@@ -1,4 +1,4 @@
-<img src="images/wavey.gif">
+<img src="images/wavey.gif"> herro there :3
 
 # Introducing Myself
 
