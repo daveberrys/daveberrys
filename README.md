@@ -1,6 +1,6 @@
 <img src="images/wavey.gif">
 
-# Introducing
+# Introducing Myself
 
 Herro!
 
