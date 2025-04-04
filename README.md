@@ -1,25 +1,47 @@
-## trace("Hello World!")
+<img src="images/wavey.gif" width="50" height="50">
 
-Im a silly little newbie haxe coder :3
+# Introducing
 
-I'm still a newbie at haxe, so expect me to be terrible lol !!
+Herro!
 
-# Anyways,
+My name is Daveberry Blueson, I'm a [Blue Heeler](https://en.wikipedia.org/wiki/Australian_Cattle_Dog).
 
-I'm a stupid 14 year old male who lives in Malaysia [(Full About Me)](https://daveberry.netlify.app/daveberry/aboutme)
+I'm a <b>14y Male Teenager</b> who does:
 
-My links are [here!](https://daveberry.netlify.app/)
+<b> • <img src="images/haxeflixel.png" width="25" height="25"> HaxeFlixel Programming. </b>
 
-Ways to contact me? Discord (daveberrys), [Bluesky](https://bsky.app/profile/weirdpersontbh.bsky.social) and Matrix (@daveberry:matrix.org) !
+<b> • <img src="images/microphone.png" width="25" height="25"> Voice Acting. </b>
+
+<b> • <img src="images/art palette.png" width="25" height="25"> Art & Graphic Design. </b>
+
+<b> • <img src="images/musical notes.png" width="25" height="25"> Composing. </b>
+
+# Other Things about me
+
+It Doesn't come as a surprise that I'm Married.
+
+I'm trying my best to spread positivity and trying to be a good person.
+
+I also used to be a developer in <a href="https://github.com/VideoBotYT/Universe-Engine">Universe Engine</a>.
 
 # Fun Facts
 
-I stupid. (wow surprising i know :3)
+I'm a pretty honest and chill person, I'm trying my best to become a good person.
 
-I used to be a developer of [Universe Engine](https://github.com/VideoBotYT/Universe-Engine).
+I try to code useful things for you!
 
-Used to code in Psych Engine Lua, Now codes in Codename Engine Haxe!
+I try my best to help, If I'm not good, <b>I'm sorry.</b>
 
-I'm very chill :3
+# Ways to Contact Me
 
-holy shit yes, im married STOP ASKING !!!
+<b> • Discord = daveberrys </b>
+
+<b> • Matrix = @daveberry:matrix.org </b>
+
+<b> • Bluesky = <a href="https://bsky.app/profile/daveberry.netlify.app">@daveberry.netlify.app</a> </b>
+
+# My Links and FULL about me
+
+My Links: https://daveberry.netlify.app/
+
+Full About Me: https://daveberry.netlify.app/about/
