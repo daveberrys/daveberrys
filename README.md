@@ -59,6 +59,3 @@ My Links: https://daveberry.netlify.app/
 Full About Me: https://daveberry.netlify.app/about/
 
 </details>
-
-<p> a </p>
-<p> b </p>
