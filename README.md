@@ -18,7 +18,7 @@ I'm a <b>14y Male Teenager</b> who does:
 
 # Other Things about me
 
-It Doesn't come as a surprise that I'm Married.
+It doesn't come as a surprise that I'm Married.
 
 I'm trying my best to spread positivity and trying to be a good person.
 
@@ -29,6 +29,8 @@ I also used to be a developer in <a href="https://github.com/VideoBotYT/Universe
 I'm a pretty honest and chill person, I'm trying my best to become a good person.
 
 I try to code useful things for you!
+
+I'm also a <b>DIEHARD</b> <a href="https://www.bluey.tv/">Bluey</a> Fan!
 
 I try my best to help, If I'm not good, <b>I'm sorry.</b>
 
