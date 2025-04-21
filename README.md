@@ -1,3 +1,4 @@
+<div align="center">
 <img src="images/wavey.gif"> herro there :3
 
 # Introducing Myself
