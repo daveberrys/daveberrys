@@ -1,4 +1,4 @@
-<img src="images/wavey.gif"> herro there :3
+<img src="images/wavey.gif">
 <div align="center">
 
 # Introducing Myself
@@ -15,21 +15,25 @@ I'm a <b>14y Male Teenager</b> who does:
 
 <b> • <img src="images/art palette.png" width="25" height="25"> Art & Graphic Design. </b>
 
-<b> • <img src="images/musical notes.png" width="25" height="25"> Music. </b>
+<b> • <img src="images/musical notes.png" width="25" height="25"> Music. (Sorta) </b>
 
 <details>
-    <summary><h2>Other Things about me</h2></summary>
+    <summary>Other Things about me</summary>
 
-It doesn't come as a surprise that I'm Married.
+I'm just a silly little Malaysian who codes, does art and voice acts!
+
+It doesn't come as a surprise that I'm Taken.
 
 I'm trying my best to spread positivity and trying to be a good person.
 
 I also used to be a developer in <a href="https://github.com/VideoBotYT/Universe-Engine">Universe Engine</a>.
 
+I use Windows (Tiny11) and Linux (CachyOS: Arch based)
+
 </details>
 
 <details>
-    <summary><h2>Fun Facts</h2></summary>
+    <summary>Fun Facts</summary>
 
 I'm a pretty honest and chill person, I'm trying my best to become a good person.
 
@@ -42,7 +46,7 @@ I try my best to help, If I'm not good, <b>I'm sorry.</b>
 </details>
 
 <details>
-    <summary><h2>Ways to contact me</h2></summary>
+    <summary>Ways to contact me</summary>
 
 <b> • Discord = daveberrys </b>
 
@@ -52,11 +56,4 @@ I try my best to help, If I'm not good, <b>I'm sorry.</b>
 
 </details>
 
-<details>
-    <summary><h2>My Links</h2></summary>
-
-My Links: https://daveberry.netlify.app/
-
-Full About Me: https://daveberry.netlify.app/about/
-
-</details>
+# My Website: https://daveberry.netlify.app/
