@@ -17,9 +17,10 @@ I'm a <b>14y Male Teenager</b> who does:
 
 <b> • <img src="images/musical notes.png" width="25" height="25"> Music. (Sorta) </b>
 
+<br>
 <details>
-    <summary>Other Things about me</summary>
-    <br>
+    <summary><b>Other Things about me</b></summary>
+<br>
 
 I'm just a silly little Malaysian who codes, does art and voice acts!
 
@@ -31,11 +32,12 @@ I also used to be a developer in <a href="https://github.com/VideoBotYT/Universe
 
 I use Windows (Tiny11) and Linux (CachyOS: Arch based)
 
+<br>
 </details>
 
 <details>
-    <summary>Fun Facts</summary>
-    <br>
+    <summary><b>Fun Facts</b></summary>
+<br>
 
 I'm a pretty honest and chill person, I'm trying my best to become a good person.
 
@@ -45,11 +47,12 @@ I'm also a <b>DIEHARD</b> <a href="https://www.bluey.tv/">Bluey</a> Fan!
 
 I try my best to help, If I'm not good, <b>I'm sorry.</b>
 
+<br>
 </details>
 
 <details>
-    <summary>Ways to contact me</summary>
-    <br>
+    <summary><b>Ways to contact me</b></summary>
+<br>
 
 <b> • Discord = daveberrys </b>
 
@@ -57,6 +60,8 @@ I try my best to help, If I'm not good, <b>I'm sorry.</b>
 
 <b> • Bluesky = <a href="https://bsky.app/profile/daveberry.netlify.app">@daveberry.netlify.app</a> </b>
 
+<br>
 </details>
 
+<br>
 ### My Website: https://daveberry.netlify.app/
