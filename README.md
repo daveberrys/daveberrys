@@ -32,7 +32,6 @@ I also used to be a developer in <a href="https://github.com/VideoBotYT/Universe
 
 I use Windows (Tiny11) and Linux (CachyOS: Arch based)
 
-<br>
 </details>
 
 <details>
@@ -47,22 +46,19 @@ I'm also a <b>DIEHARD</b> <a href="https://www.bluey.tv/">Bluey</a> Fan!
 
 I try my best to help, If I'm not good, <b>I'm sorry.</b>
 
-<br>
 </details>
 
 <details>
     <summary><b>Ways to contact me</b></summary>
 <br>
 
-<b> • Discord = daveberrys </b>
+• Discord = daveberrys
 
-<b> • Matrix = @daveberry:matrix.org </b>
+• Matrix = @daveberry:matrix.org
 
-<b> • Bluesky = <a href="https://bsky.app/profile/daveberry.netlify.app">@daveberry.netlify.app</a> </b>
+• Bluesky = <a href="https://bsky.app/profile/daveberry.netlify.app">@daveberry.netlify.app</a>
 
-<br>
 </details>
 
-<br>
 <h3>
     My Website: https://daveberry.netlify.app/
