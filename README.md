@@ -19,6 +19,7 @@ I'm a <b>14y Male Teenager</b> who does:
 
 <details>
     <summary>Other Things about me</summary>
+    <br>
 
 I'm just a silly little Malaysian who codes, does art and voice acts!
 
@@ -34,6 +35,7 @@ I use Windows (Tiny11) and Linux (CachyOS: Arch based)
 
 <details>
     <summary>Fun Facts</summary>
+    <br>
 
 I'm a pretty honest and chill person, I'm trying my best to become a good person.
 
@@ -47,6 +49,7 @@ I try my best to help, If I'm not good, <b>I'm sorry.</b>
 
 <details>
     <summary>Ways to contact me</summary>
+    <br>
 
 <b> • Discord = daveberrys </b>
 
@@ -56,4 +59,4 @@ I try my best to help, If I'm not good, <b>I'm sorry.</b>
 
 </details>
 
-# My Website: https://daveberry.netlify.app/
+### My Website: https://daveberry.netlify.app/
