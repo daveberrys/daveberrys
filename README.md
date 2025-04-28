@@ -1,5 +1,7 @@
-<img src="images/wavey.gif" width="100">
-<h2> Hey mate! </h2>
+<h2> 
+    <img src="images/wavey.gif" width="50">
+    Hey mate!
+</h2>
 
 <p>
     I'm just a <b>14 year old</b> <a href="https://en.wikipedia.org/wiki/Australian_Cattle_Dog">Blue Heeler</a> who codes! <br>
@@ -29,6 +31,7 @@
 </p>
 
 ---
+<h2>Stats</h2>
 
 [![Daveberrys's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daveberry&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Daveberry's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveberrys&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
