@@ -8,8 +8,8 @@
 
 ---
 
-<h2> I, myself code in </h2>  <br>
-[![My Skills](https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark)](https://skillicons.dev)
+<h2> I, myself code in </h2>
+<img src="https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark">
 
 ---
 
