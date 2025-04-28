@@ -22,15 +22,13 @@
 ---
 
 <h2> A little message... </h2>
-<blockquotes>
-    <p>
-        If you're going through a hard time. fear not, I am too. <br>
-        But do not fear, you can go through this. <br>
-        Contact your loved ones and youll get through it.
-    </p>
-</blockquotes>
+<p>
+    If you're going through a hard time. fear not, I am too. <br>
+    But don't worry, you can go through this. <br>
+    Contact your loved ones and youll get through it.
+</p>
 
 ---
 
-[![Daveberrys's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daveberry&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Daveberry's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveberrys&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Daveberrys's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daveberry&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Daveberry's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveberrys&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
