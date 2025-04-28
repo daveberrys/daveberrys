@@ -1,6 +1,6 @@
 <h2> 
     <img src="images/wavey.gif" width="50">
-    Hey mate!
+    👋 Hey mate!
 </h2>
 
 <p>
@@ -10,20 +10,22 @@
 
 ---
 
-<h2> I, myself code in </h2>
+<h2> 💻 Coding Languages </h2>
 <img src="https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark" href="https://skillicons.dev/">
+<h2> ❓ Hobbies </h2>
+<img src="images/microphone.png" width="50"> <img src="images/art palette.png" width="50>
 
 ---
 
-<h2> Contact me </h2>
-<p> Ill try my best to respond! </p>
+<h2> 📱 Contact me </h2>
 <a href="https://bsky.app/profile/daveberry.netlify.app/">Bluesky: daveberry.netlify.app</a> <br>
 <a href="https://daveberry.netlify.app/">Matrix: @daveberry:matrix.org</a> <br>
 <a href="https://daveberry.netlify.app/">Discord: daveberrys</a>
+<p> Ill try my best to respond! </p>
 
 ---
 
-<h2> A little message... </h2>
+<h2> 💬 A little message... </h2>
 <p>
     If you're going through a hard time. fear not, I am too. <br>
     But don't worry, you can go through this. <br>
@@ -31,7 +33,7 @@
 </p>
 
 ---
-<h2>Stats</h2>
+<h2>📊 Stats</h2>
 
 [![Daveberrys's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daveberry&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Daveberry's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveberrys&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
