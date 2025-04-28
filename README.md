@@ -41,7 +41,6 @@
         <a href="https://daveberry.netlify.app/">Discord: daveberrys</a>
     </h2>
 </details>
-<br>
 
 <h2> 📜 My Website! </h2>
 <a href="https://daveberry.netlify.app/">daveberry.netlify.app</a>
