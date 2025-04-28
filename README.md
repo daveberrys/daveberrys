@@ -19,11 +19,11 @@
 
 <h2> 📱 Contact me </h2>
 <p> Ill try my best to respond! </p>
-<h1>
+<h2>
     <a href="https://bsky.app/profile/daveberry.netlify.app/">Bluesky: daveberry.netlify.app</a> <br>
     <a href="https://daveberry.netlify.app/">Matrix: @daveberry:matrix.org</a> <br>
     <a href="https://daveberry.netlify.app/">Discord: daveberrys</a>
-</h1>
+</h2>
 
 ---
 
