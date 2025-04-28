@@ -13,15 +13,15 @@
 <h2> 💻 Coding Languages </h2>
 <img src="https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark" href="https://skillicons.dev/">
 <h2> ❓ Hobbies </h2>
-<img src="images/microphone.png" width="50"> <img src="images/art palette.png" width="50>
+<img src="images/microphone.png" width="50" src="images/art palette.png" width="50>
 
 ---
 
 <h2> 📱 Contact me </h2>
+<p> Ill try my best to respond! </p>
 <a href="https://bsky.app/profile/daveberry.netlify.app/">Bluesky: daveberry.netlify.app</a> <br>
 <a href="https://daveberry.netlify.app/">Matrix: @daveberry:matrix.org</a> <br>
 <a href="https://daveberry.netlify.app/">Discord: daveberrys</a>
-<p> Ill try my best to respond! </p>
 
 ---
 
