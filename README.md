@@ -43,38 +43,9 @@
 </details>
 <br>
 
-<!--Links-->
-<details>
-    <summary>📜 Links</summary>
-    <br>
-    <a href="https://bsky.app/profile/daveberry.netlify.app" target="_blank">
-        <div class="button">Bluesky </div>
-    </a>
-    <br>
-    <a href="https://matrix.to/#/#daveberry:matrix.org" target="_blank">
-        <div class="button"> Matrix Space</div>
-    </a>
-    <br>
-    <a href="https://discord.gg/S5jTpsq8Js" target="_blank">
-        <div class="button">Discord Server</div>
-    </a>
-    <br>
-    <a href="https://www.youtube.com/@daveberryblueson" target="_blank">
-        <div class="button">Youtube Channel</div>
-    </a>
-    <br>
-    <a href="https://www.twitch.tv/daveberrys" target="_blank">
-        <div class="button">Twitch</div>
-    </a>
-    <br>
-    <a href="https://gamebanana.com/members/2049729" target="_blank">
-        <div class="button">Gamebanana</div>
-    </a>
-    <br>
-    <a href="https://github.com/daveberrys" target="_blank">
-        <div class="button">Github</div>
-    </a>
-</details>
+<h2> 📜 My Website! </h2>
+<a href="https://daveberry.netlify.app/">daveberry.netlify.app</a>
+<br>
 
 <h2> 💬 A little message... </h2>
 <p>
