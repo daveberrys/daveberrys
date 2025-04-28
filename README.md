@@ -1,64 +1,34 @@
-<img src="images/wavey.gif">
-<div align="center">
+<img src="images/wavey.gif" width="100">
+<h2> Hey mate! </h2>
 
-# Introducing Myself
+<p>
+    I'm just a <b>14 year old</b> <a href="https://en.wikipedia.org/wiki/Australian_Cattle_Dog">Blue Heeler</a> who codes! <br>
+    I'm from <b>Malaysia</b>, I love dogs and cats, I do <b>FNF Modding</b> and no, I'm not a content creator.
+</p>
 
-Herro!
+---
 
-My name is Daveberry Blueson, I'm a [Blue Heeler](https://en.wikipedia.org/wiki/Australian_Cattle_Dog).
+<h2> I, myself code in </h2>
+[![My Skills](https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark)](https://skillicons.dev)
 
-I'm a <b>14y Male Teenager</b> who does:
+---
 
-<b> • <img src="images/haxeflixel.png" width="25" height="25"> HaxeFlixel Programming. </b>
+<h2> Contact me </h2>
+<p> Ill try my best to respond! </p>
+<a href="https://bsky.app/profile/daveberry.netlify.app/">Bluesky: daveberry.netlify.app</a>
+<a href="https://daveberry.netlify.app/">Matrix: @daveberry:matrix.org</a>
+<a href="https://daveberry.netlify.app/">Discord: daveberrys</a>
 
-<b> • <img src="images/microphone.png" width="25" height="25"> Voice Acting. </b>
+---
 
-<b> • <img src="images/art palette.png" width="25" height="25"> Art & Graphic Design. </b>
+<h2> A little message... </h2>
+<blockquotes>
+    If you're going through a hard time. fear not, I am too. <br>
+    But do not fear, you can go through this. <br>
+    Contact your loved ones and youll get through it.
+</blockquotes>
 
-<b> • <img src="images/musical notes.png" width="25" height="25"> Music. (Sorta) </b>
+---
 
-<br>
-<details>
-    <summary><b>Other Things about me</b></summary>
-<br>
-
-I'm just a silly little Malaysian who codes, does art and voice acts!
-
-It doesn't come as a surprise that I'm Taken.
-
-I'm trying my best to spread positivity and trying to be a good person.
-
-I also used to be a developer in <a href="https://github.com/VideoBotYT/Universe-Engine">Universe Engine</a>.
-
-I use Windows (Tiny11) and Linux (CachyOS: Arch based)
-
-</details>
-
-<details>
-    <summary><b>Fun Facts</b></summary>
-<br>
-
-I'm a pretty honest and chill person, I'm trying my best to become a good person.
-
-I try to code useful things for you!
-
-I'm also a <b>DIEHARD</b> <a href="https://www.bluey.tv/">Bluey</a> Fan!
-
-I try my best to help, If I'm not good, <b>I'm sorry.</b>
-
-</details>
-
-<details>
-    <summary><b>Ways to contact me</b></summary>
-<br>
-
-• Discord = daveberrys
-
-• Matrix = @daveberry:matrix.org
-
-• Bluesky = <a href="https://bsky.app/profile/daveberry.netlify.app">@daveberry.netlify.app</a>
-
-</details>
-
-<h3>
-    My Website: https://daveberry.netlify.app/
+[![Daveberrys's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daveberry&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Daveberry's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveberrys&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
