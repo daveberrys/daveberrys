@@ -1,31 +1,80 @@
-<h2> 
+<h2>
     <img src="images/wavey.gif" width="50">
-    👋 Hey mate!
+    Hey mate!
 </h2>
-
 <p>
-    I'm just a <b>14 year old</b> <a href="https://en.wikipedia.org/wiki/Australian_Cattle_Dog">Blue Heeler</a> who codes! <br>
-    I'm from <b>Malaysia</b>, I love dogs and cats, I do <b>FNF Modding</b> and no, I'm not a content creator.
+    Looks like you wanted to know more about me. <br>
+    Well, this is the perfect page for you!
 </p>
 
----
 
-<h2> 💻 Coding Languages </h2>
-<img src="https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark" href="https://skillicons.dev/">
-<h2> ❓ Hobbies </h2>
-<h1>🎙️ 🎨</h1>
+<!--About Me-->
+<details>
+    <summary>👤 About me</summary>
+    <br>
+    <p>
+        I'm a <b>14 year old</b> <a href="https://en.wikipedia.org/wiki/Australian_Cattle_Dog" target="_blank">Blue Heeler</a>
+        who codes! <br>
+        I'm from <b>Malaysia</b>, I love dogs and cats, I do <b>FNF Modding</b> and no, I'm not a content
+        creator.
+    </p>
+    <h2> 💻 Coding Languages </h2>
+    <a href="https://skillicons.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark" class="center">
+    </a>
+    <h2> ❓ Hobbies </h2>
+    <div>
+        <img src="images/microphone.png" width="50">
+        <img src="images/art palette.png" width="50">
+    </div>
+</details>
+<br>
 
----
+<!--Contact Me-->
+<details>
+    <br>
+    <summary>📱 Contact me</summary>
+    <p> Ill try my best to respond! </p>
+    <h2>
+        <a href="https://bsky.app/profile/daveberry.netlify.app/" target="_blank">Bluesky: daveberry.netlify.app</a> <br>
+        <a href="https://daveberry.netlify.app/">Matrix: @daveberry:matrix.org</a> <br>
+        <a href="https://daveberry.netlify.app/">Discord: daveberrys</a>
+    </h2>
+</details>
+<br>
 
-<h2> 📱 Contact me </h2>
-<p> Ill try my best to respond! </p>
-<h2>
-    <a href="https://bsky.app/profile/daveberry.netlify.app/">Bluesky: daveberry.netlify.app</a> <br>
-    <a href="https://daveberry.netlify.app/">Matrix: @daveberry:matrix.org</a> <br>
-    <a href="https://daveberry.netlify.app/">Discord: daveberrys</a>
-</h2>
-
----
+<!--Links-->
+<details>
+    <summary>📜 Links</summary>
+    <br>
+    <a href="https://bsky.app/profile/daveberry.netlify.app" target="_blank">
+        <div class="button">Bluesky </div>
+    </a>
+    <br>
+    <a href="https://matrix.to/#/#daveberry:matrix.org" target="_blank">
+        <div class="button"> Matrix Space</div>
+    </a>
+    <br>
+    <a href="https://discord.gg/S5jTpsq8Js" target="_blank">
+        <div class="button">Discord Server</div>
+    </a>
+    <br>
+    <a href="https://www.youtube.com/@daveberryblueson" target="_blank">
+        <div class="button">Youtube Channel</div>
+    </a>
+    <br>
+    <a href="https://www.twitch.tv/daveberrys" target="_blank">
+        <div class="button">Twitch</div>
+    </a>
+    <br>
+    <a href="https://gamebanana.com/members/2049729" target="_blank">
+        <div class="button">Gamebanana</div>
+    </a>
+    <br>
+    <a href="https://github.com/daveberrys" target="_blank">
+        <div class="button">Github</div>
+    </a>
+</details>
 
 <h2> 💬 A little message... </h2>
 <p>
@@ -34,8 +83,9 @@
     Contact your loved ones and youll get through it.
 </p>
 
----
-<h2>📊 Stats</h2>
-
-[![Daveberrys's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daveberry&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Daveberry's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveberrys&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2>📊 Github Stats</h2>
+<a href="https://github.com/anuraghazragithub-readme-stats"target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Daveberry&theme=tokyonight&layout=compact" class="center">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=daveberrys&theme=tokyonight&layout=compact" class="center">
+</a>
