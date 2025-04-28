@@ -9,7 +9,7 @@
 ---
 
 <h2> I, myself code in </h2>
-<img src="https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark">
+<img src="https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark" href="https://skillicons.dev/">
 
 ---
 
@@ -23,9 +23,11 @@
 
 <h2> A little message... </h2>
 <blockquotes>
-    If you're going through a hard time. fear not, I am too. <br>
-    But do not fear, you can go through this. <br>
-    Contact your loved ones and youll get through it.
+    <p>
+        If you're going through a hard time. fear not, I am too. <br>
+        But do not fear, you can go through this. <br>
+        Contact your loved ones and youll get through it.
+    </p>
 </blockquotes>
 
 ---
