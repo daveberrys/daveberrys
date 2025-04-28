@@ -13,7 +13,7 @@
 <h2> 💻 Coding Languages </h2>
 <img src="https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark" href="https://skillicons.dev/">
 <h2> ❓ Hobbies </h2>
-<img src="images/microphone.png" width="50" src="images/art palette.png" width="50>
+<h1>🎙️ 🎨</h1>
 
 ---
 
