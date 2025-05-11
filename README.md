@@ -20,12 +20,13 @@
     </p>
     <h2> 💻 Coding Languages </h2>
     <a href="https://skillicons.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=haxeflixel,lua,html,css&theme=dark" class="center">
+        <img src="https://skillicons.dev/icons?i=haxeflixel,lua,html,css,bash&theme=dark" class="center">
     </a>
     <h2> ❓ Hobbies </h2>
     <div>
         <img src="images/microphone.png" width="50">
         <img src="images/art palette.png" width="50">
+        <img src="images/musical notes.png" width="50">
     </div>
 </details>
 <br>
