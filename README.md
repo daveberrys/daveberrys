@@ -1,10 +1,10 @@
 <h2>
     <img src="images/wavey.gif" width="50">
-    Hey mate!
+    Hey mate.
 </h2>
 <p>
     Looks like you wanted to know more about me. <br>
-    Well, this is the perfect page for you!
+    Well, this is the perfect page for you.
 </p>
 
 
@@ -14,7 +14,7 @@
     <br>
     <p>
         I'm a <b>14 year old</b> <a href="https://en.wikipedia.org/wiki/Australian_Cattle_Dog" target="_blank">Blue Heeler</a>
-        who codes! <br>
+        who codes. <br>
         I'm from <b>Malaysia</b>, I love dogs and cats, I do <b>FNF Modding</b> and no, I'm not a content
         creator.
     </p>
@@ -43,7 +43,7 @@
     </h2>
 </details>
 
-<h2> 📜 My Website! </h2>
+<h2> 📜 My Website </h2>
 <a href="https://daveberry.netlify.app/">daveberry.netlify.app</a>
 <br>
 
