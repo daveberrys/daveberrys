@@ -39,27 +39,6 @@
             <img src="images/emojis/writing on paper.png" width="25" style="border-radius: 0px;"> • Writer
         </h3>
     </div>
-    <br>
-    <details style="margin-left: 30px;">
-        <summary>👥 More about me!</summary>
-        <br>
-        <p style="margin-left: 20px;">
-            I'm a <b>light hearted</b> and <b>kind</b> person, I don't get mad easily, I'm just a <b>chill</b> person.
-            <br>
-            I don't want to <b>burden</b> people with all my problems since I don't want to <b>disturb other people</b>.
-            <br>
-        </p>
-        <p style="margin-left: 20px;">
-            I'm a <b>sensitive</b> person which means I can easily get <b>sad</b> when someone is <b>angry</b> at me or
-            talks <b>something bad</b> about me.
-        </p>
-        <p style="margin-left: 20px;">
-            I have <b>ADHD</b>, I can easily get <b>distracted</b> and <b>procrasinate</b>. <br>
-        </p>
-        <p style="margin-left: 20px;">
-            I also have <b>short-term</b> memory loss, I easily forget some things.
-        </p>
-    </details>
 </details>
 <br>
 
