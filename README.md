@@ -1,7 +1,7 @@
 <h2><img src="images/emojis/wavey.gif" width="50"> | Heya.</h2>
 <p>
     Thanks for checkin' in. <br>
-    I don't have much going on, but my <a href="https://daveberry.netlify.app/">website</a> has all the public infomation about me. <br>
+    I don't have much going on, but <a href="https://daveberry.netlify.app/">my website</a> has all the public infomation about me. <br>
 </p>
 
 <h2>🔧 | My projects</h2>
