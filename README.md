@@ -9,8 +9,8 @@
     <tr>
         <th> <a href="https://github.com/Noteted/Noteted"> Noteted </a> </th>
         <th> <a href="https://github.com/Creativity-Archived/Creativity-Archived"> Creativity Archived </a> </th>
-        <th> <a href="https://github.com/VLC.UTILS"> VLC.UTILS </a> </th>
-        <th> <a href="https://github.com/SendYourFiles"> Send Your Files </a> </th>
+        <th> <a href="https://github.com/daveberrys/VLC.UTILS"> VLC.UTILS </a> </th>
+        <th> <a href="https://github.com/daveberrys/SendYourFiles"> Send Your Files </a> </th>
         <th> <a href="https://github.com/daveberrys/WhatsAnApp"> WhatsAnApp </a> </th>
     </tr>
     <tr>
