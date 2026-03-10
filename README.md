@@ -9,9 +9,9 @@
     <tr>
         <th> <a href="https://github.com/Noteted/Noteted"> Noteted </a> </th>
         <th> <a href="https://github.com/Creativity-Archived/Creativity-Archived"> Creativity Archived </a> </th>
-        <th> <a href="https://github.com/daveberrys/VLC.UTILS"> VLC.UTILS </a> </th>
-        <th> <a href="https://github.com/daveberrys/SendYourFiles"> Send Your Files </a> </th>
-        <th> <a href="https://github.com/daveberrys/WhatsAnApp"> WhatsAnApp </a> </th>
+        <th> <a href="https://github.com/PinpointTools/VLC.UTILS"> VLC.UTILS </a> </th>
+        <th> <a href="https://github.com/PinpointTools/SendYourFiles-RW"> Send Your Files </a> </th>
+        <th> <a href="https://github.com/PinpointTools/WhatsAnApp"> WhatsAnApp </a> </th>
     </tr>
     <tr>
         <th> <img src="https://noteted.netlify.app/assets/NTD.png" width=100 height=100 alt="Noteted"/> </th>
