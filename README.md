@@ -2,7 +2,7 @@
 <p>
     Thanks for checkin' in. <br>
     I don't have much going on, but <a href="https://codedave.pages.dev/">my website</a> has all the public infomation about me. <br>
-    Portfolio at <a href="https://codedave.pages.dev/">here</a> if you want to hire me, I don't know.
+    Portfolio at <a href="https://codedave.pages.dev/portfolio/">here</a> if you want to hire me, I don't know.
 </p>
 
 <h2>🔧 | My projects. </h2>
