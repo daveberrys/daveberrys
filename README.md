@@ -13,13 +13,15 @@
         <th> <a href="https://github.com/PinpointTools/VLC.UTILS"> VLC.UTILS </a> </th>
         <th> <a href="https://github.com/PinpointTools/SendYourFiles-RW"> Send Your Files </a> </th>
         <th> <a href="https://github.com/PinpointTools/WhatsAnApp"> WhatsAnApp </a> </th>
+        <th> <a href="https://github.com/PinpointTools/Pyder"> Pyder </a> </th>
     </tr>
     <tr>
         <th> <img src="https://noteted.netlify.app/assets/NTD.png" width=100 height=100 alt="Noteted"/> </th>
         <th> <img src="https://github.com/Creativity-Archived/Creativity-Archived/blob/main/static/images/icons/website/Creativity%20Archived%20-%20white.png?raw=true" width=100 height=100 alt="Creativity Archived"/> </th>
         <th> <img src="https://github.com/PinpointTools/VLC.UTILS/raw/main/icon/VLC.UTILS.png" width=100 height=100 alt="VLC.UTILS"/> </th>
-        <th> <img src="https://github.com/PinpointTools/SendYourFiles-RW/blob/main/src/assets/SendYourFiles.png" width=100 height=100 alt="Send Your Files"/> </th>
+        <th> <img src="https://github.com/PinpointTools/SendYourFiles-RW/blob/main/public/icons/512/syf.png" width=100 height=100 alt="Send Your Files"/> </th>
         <th> <img src="https://github.com/PinpointTools/WhatsAnApp/raw/main/assets/WhatsAnApp.png" width=100 height=100 alt="WhatsAnApp"/> </th>
+        <th> <img src="https://github.com/PinpointTools/Pyder/blob/main/icon/512.png" width=100 height=100 alt="Pyder"/> </th>
     </tr>
 </table>
 
