@@ -25,7 +25,8 @@
     </tr>
 </table>
 
-<h2> ‼️ | IMPORTANT. </h2>
-<p>
-    I have ADHD and short-term memory loss. I tend to forget things easily and that's why I'm using AI/LLM on projects. Not for giving me the code blindly, but to give me quizzes and help me re-learn them again.
-</p>
+<h2>📈 | My Stats</h2>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/daveberrys/daves-stats/refs/heads/main/profile/stats.svg" alt="Daveberry's GitHub Stats"/>
+    <img src="https://raw.githubusercontent.com/daveberrys/daves-stats/refs/heads/main/profile/toplangs.svg" alt="Daveberry's Top 6 Languages"/>
+</div>
