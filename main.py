@@ -6,7 +6,7 @@ def loadProjects():
         projects = json.load(f)
     with open("README.md", "r") as f:
         readme = f.read()
-    spaces = " " * 4
+    spaces = " " * 6
 
     projectNames = "\n".join(f'{spaces}<td><a href="{p["url"]}">{p["name"]}</a></td>' for p in projects)
     projectDescriptions = "\n".join(f'{spaces}<td>{p["description"]}</td>' for p in projects)
@@ -15,7 +15,7 @@ def loadProjects():
     def replaceSection(section, content):
         return re.sub(
             rf"<!--START OF PROJECTS {section}-->.*?<!--END OF PROJECTS {section}-->",
-            f"<!--START OF PROJECTS {section}-->\n{content}\n{spaces}<!--END OF PROJECTS {section}-->",
+            f"<!--START OF PROJECTS {section}-->\n{content}\n{spaces[:-2]}<!--END OF PROJECTS {section}-->",
             readme,
             flags=re.DOTALL,
         )

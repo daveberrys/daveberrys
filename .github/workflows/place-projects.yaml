@@ -1,0 +1,36 @@
+name: Place Projects
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  python-version: 3.14.5
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python (${{ env.python-version }})
+        uses: actions/setup-python@v6
+        with:
+          python-version: ${{ env.python-version }}
+
+      - name: Run Python File (${{ env.python-version }})
+        run: python main.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Projects from projects.json" || exit 0
+          git push
