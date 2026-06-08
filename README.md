@@ -2,7 +2,7 @@
 <p>
     Thanks for checkin' in. <br>
     I don't have much going on, but <a href="https://codedave.pages.dev/">my website</a> has all the public infomation about me. <br>
-    Portfolio at <a href="https://codedave.pages.dev/portfolio/">here</a> if you want to hire me, I don't know.
+    If you do decide to hire me, you have the option for me to use <a href="https://opencode.ai">LLMs</a> or not. I will not fight back if you say no.
 </p>
 
 <h2>🔧 | My projects. </h2>
