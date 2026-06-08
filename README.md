@@ -9,14 +9,47 @@
 <table>
   <tr>
     <!--START OF PROJECTS NAMES-->
+      <td><a href="https://github.com/Noteted/Noteted">Noteted</a></td>
+      <td><a href="https://github.com/Creativity-Archived/Creativity-Archived">Creativity Archived</a></td>
+      <td><a href="https://github.com/PinpointTools/VLC.UTILS">VLC.UTILS</a></td>
+      <td><a href="https://github.com/PinpointTools/SendYourFiles-RW">Send Your Files</a></td>
+      <td><a href="https://github.com/PinpointTools/WhatsAnApp">WhatsAnApp</a></td>
+      <td><a href="https://github.com/daveberrys/HostRN">HostRN</a></td>
+      <td><a href="https://github.com/daveberrys/LitV">LitV</a></td>
+      <td><a href="https://github.com/daveberrys/GitUI">GitUI</a></td>
+      <td><a href="https://github.com/daveberrys/Protux">Protux</a></td>
+      <td><a href="https://github.com/daveberrys/ThisCordRPC">ThisCordRPC</a></td>
+      <td><a href="https://github.com/daveberrys/EWgent">EWgent</a></td>
     <!--END OF PROJECTS NAMES-->
   </tr>
   <tr>
     <!--START OF PROJECTS DESCRIPTIONS-->
+      <td>A note taking app made with customtkinter. This project has been dropped due to having issues with the customtkinter library.</td>
+      <td>A place to share games, software, and many other creative content that you desire.</td>
+      <td>Share your current playing in VLC to LastFM to scrobble, and show off to your friends using Discord RPC.</td>
+      <td>A way to share your files to different providers.</td>
+      <td>An alternative to the official WhatsApp desktop client with custom features. Supported for cross platform. Currently under heavy break.</td>
+      <td>A simple and fast way to host your services without docker.</td>
+      <td>A `uv` inspired tool made with Rust. A python helper if you will.</td>
+      <td>A minimal alternative to GitHub Desktop. Not a full on replacement. Maybe later...</td>
+      <td>A terminal inspired by `cmux` but for cross-desktop.</td>
+      <td>A simple Discord RPC client with presets, and many others to come.</td>
+      <td>A tool to write a prompt before you send it to your preferred LLM.</td>
     <!--END OF PROJECTS DESCRIPTIONS-->
   </tr>
   <tr>
     <!--START OF PROJECTS IMAGE-->
+      <td><img src="https://camo.githubusercontent.com/493b7431c82f35a9940cf7ec240223345844de4f8dad7954256bf19b4a54d02f/68747470733a2f2f6e6f74657465642e6e65746c6966792e6170702f6173736574732f4e54442e706e67" alt="Noteted"></td>
+      <td><img src="https://github.com/Creativity-Archived/Creativity-Archived/raw/main/static/images/icons/website/Creativity%20Archived%20-%20white.png?raw=true" alt="Creativity Archived"></td>
+      <td><img src="https://github.com/PinpointTools/VLC.UTILS/raw/main/icon/VLC.UTILS.png" alt="VLC.UTILS"></td>
+      <td><img src="https://github.com/PinpointTools/SendYourFiles-RW/raw/main/public/icons/512/syf.png" alt="Send Your Files"></td>
+      <td><img src="https://github.com/PinpointTools/WhatsAnApp/raw/main/assets/WhatsAnApp.png" alt="WhatsAnApp"></td>
+      <td><img src="https://github.com/daveberrys/HostRN/raw/main/frontend/public/favicon.ico" alt="HostRN"></td>
+      <td><img src="/images/where.png" alt="LitV"></td>
+      <td><img src="https://github.com/daveberrys/GitUI/raw/main/icon/favicon.png" alt="GitUI"></td>
+      <td><img src="/images/where.png" alt="Protux"></td>
+      <td><img src="https://github.com/daveberrys/ThisCordRPC/blob/main/icon/512.png?raw=true" alt="ThisCordRPC"></td>
+      <td><img src="https://github.com/daveberrys/EWgent/blob/main/icon/favicon.png?raw=true" alt="EWgent"></td>
     <!--END OF PROJECTS IMAGE-->
   </tr>
 </table>
