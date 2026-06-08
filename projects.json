@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Noteted",
+    "url": "https://github.com/Noteted/Noteted",
+    "imageURL": "https://camo.githubusercontent.com/493b7431c82f35a9940cf7ec240223345844de4f8dad7954256bf19b4a54d02f/68747470733a2f2f6e6f74657465642e6e65746c6966792e6170702f6173736574732f4e54442e706e67",
+    "description": "A note taking app made with customtkinter. This project has been dropped due to having issues with the customtkinter library."
+  },
+  {
+    "name": "Creativity Archived",
+    "url": "https://github.com/Creativity-Archived/Creativity-Archived",
+    "imageURL": "https://github.com/Creativity-Archived/Creativity-Archived/raw/main/static/images/icons/website/Creativity%20Archived%20-%20white.png?raw=true",
+    "description": "A place to share games, software, and many other creative content that you desire."
+  },
+  {
+    "name": "VLC.UTILS",
+    "url": "https://github.com/PinpointTools/VLC.UTILS",
+    "imageURL": "https://github.com/PinpointTools/VLC.UTILS/raw/main/icon/VLC.UTILS.png",
+    "description": "Share your current playing in VLC to LastFM to scrobble, and show off to your friends using Discord RPC."
+  },
+  {
+    "name": "Send Your Files",
+    "url": "https://github.com/PinpointTools/SendYourFiles-RW",
+    "imageURL": "https://github.com/PinpointTools/SendYourFiles-RW/raw/main/public/icons/512/syf.png",
+    "description": "A way to share your files to different providers."
+  },
+  {
+    "name": "WhatsAnApp",
+    "url": "https://github.com/PinpointTools/WhatsAnApp",
+    "imageURL": "https://github.com/PinpointTools/WhatsAnApp/raw/main/assets/WhatsAnApp.png",
+    "description": "An alternative to the official WhatsApp desktop client with custom features. Supported for cross platform. Currently under heavy break."
+  },
+  {
+    "name": "HostRN",
+    "url": "https://github.com/daveberrys/HostRN",
+    "imageURL": "https://github.com/daveberrys/HostRN/raw/main/frontend/public/favicon.ico",
+    "description": "A simple and fast way to host your services without docker."
+  },
+  {
+    "name": "LitV",
+    "url": "https://github.com/daveberrys/LitV",
+    "imageURL": "/images/where.png",
+    "description": "A `uv` inspired tool made with Rust. A python helper if you will."
+  },
+  {
+    "name": "GitUI",
+    "url": "https://github.com/daveberrys/GitUI",
+    "imageURL": "https://github.com/daveberrys/GitUI/raw/main/icon/favicon.png",
+    "description": "A minimal alternative to GitHub Desktop. Not a full on replacement. Maybe later..."
+  },
+  {
+    "name": "Protux",
+    "url": "https://github.com/daveberrys/Protux",
+    "imageURL": "/images/where.png",
+    "description": "A terminal inspired by `cmux` but for cross-desktop."
+  },
+  {
+    "name": "ThisCordRPC",
+    "url": "https://github.com/daveberrys/ThisCordRPC",
+    "imageURL": "https://github.com/daveberrys/ThisCordRPC/blob/main/icon/512.png?raw=true",
+    "description": "A simple Discord RPC client with presets, and many others to come."
+  },
+  {
+    "name": "EWgent",
+    "url": "https://github.com/daveberrys/EWgent",
+    "imageURL": "https://github.com/daveberrys/EWgent/blob/main/icon/favicon.png?raw=true",
+    "description": "A tool to write a prompt before you send it to your preferred LLM."
+  }
+]
