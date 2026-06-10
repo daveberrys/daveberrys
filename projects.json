@@ -64,5 +64,11 @@
     "url": "https://github.com/daveberrys/EWgent",
     "imageURL": "https://github.com/daveberrys/EWgent/blob/main/icon/favicon.png?raw=true",
     "description": "A tool to write a prompt before you send it to your preferred LLM."
+  },
+  {
+    "name": "Guh",
+    "url": "https://github.com/daveberrys/Guh",
+    "imageURL": "/images/where.png",
+    "description": "Too cool to use GitHub Desktop but stupid to not know how to use Git CLI? This is for you."
   }
 ]
