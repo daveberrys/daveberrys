@@ -19,6 +19,7 @@
     <li> <img src="/images/where.png" alt="Protux" width="24" height="24"> <a href="https://github.com/daveberrys/Protux">Protux</a>: <span>A terminal inspired by `cmux` but for cross-desktop.</span> </li>
     <li> <img src="https://github.com/daveberrys/ThisCordRPC/blob/main/icon/512.png?raw=true" alt="ThisCordRPC" width="24" height="24"> <a href="https://github.com/daveberrys/ThisCordRPC">ThisCordRPC</a>: <span>A simple Discord RPC client with presets, and many others to come.</span> </li>
     <li> <img src="https://github.com/daveberrys/EWgent/blob/main/icon/favicon.png?raw=true" alt="EWgent" width="24" height="24"> <a href="https://github.com/daveberrys/EWgent">EWgent</a>: <span>A tool to write a prompt before you send it to your preferred LLM.</span> </li>
+    <li> <img src="/images/where.png" alt="Guh" width="24" height="24"> <a href="https://github.com/daveberrys/Guh">Guh</a>: <span>Too cool to use GitHub Desktop but stupid to not know how to use Git CLI? This is for you.</span> </li>
   <!--END OF PROJECTS NAMES-->
 </ul>
 
