@@ -54,6 +54,6 @@ def loadWakatime():
 
 try:
     loadProjects()
-    loadWakatime()
+    # loadWakatime()
 except Exception as e:
     print(e)
