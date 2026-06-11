@@ -1,4 +1,4 @@
-name: Place Projects
+name: Run Python File
 
 on:
   push:
