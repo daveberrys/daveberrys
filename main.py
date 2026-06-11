@@ -1,7 +1,6 @@
 import json
 import re
 import urllib.request
-from datetime import datetime
 
 WAKATIME_URL = "https://wakatime.com/share/@Daveberry/05adfbd0-c7d1-4460-9124-9cc326d50862.json"
 WAKATIME_SPACES = " " * 8
