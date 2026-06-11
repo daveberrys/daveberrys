@@ -47,5 +47,5 @@
       <!--END OF WAKATIME TIME-->
     </tr>
   </table>
+  <p>Provided by <a href="https://wakatime.com">Wakatime</a>, Displayed by Daveberry</p>
 </div>
-<p>Provided by <a href="https://wakatime.com">Wakatime</a>, Displayed by Daveberry</p>

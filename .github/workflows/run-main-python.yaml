@@ -1,9 +1,10 @@
 name: Run Python File
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *" # Runs at midnight
+    - cron: "0 12 * * *" # Runs at 12PM
+  workflow_dispatch:
 
 env:
   python-version: 3.14.5
