@@ -25,6 +25,27 @@
 
 <h2>📈 | My Stats</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/daveberrys/daves-stats/refs/heads/main/profile/stats.svg" alt="Daveberry's GitHub Stats"/>
-  <img src="https://raw.githubusercontent.com/daveberrys/daves-stats/refs/heads/main/profile/toplangs.svg" alt="Daveberry's Top 6 Languages"/>
+  <table>
+    <tr>
+      <!--START OF WAKATIME LANGUAGES-->
+        <td>Python</td>
+        <td>Svelte</td>
+        <td>HTML</td>
+        <td>Markdown</td>
+        <td>JavaScript</td>
+        <td>CSS</td>
+      <!--END OF WAKATIME LANGUAGES-->
+    </tr>
+    <tr>
+      <!--START OF WAKATIME TIME-->
+        <td>125 hrs 39 mins</td>
+        <td>80 hrs 3 mins</td>
+        <td>57 hrs 56 mins</td>
+        <td>38 hrs 12 mins</td>
+        <td>33 hrs 9 mins</td>
+        <td>30 hrs 27 mins</td>
+      <!--END OF WAKATIME TIME-->
+    </tr>
+  </table>
 </div>
+<p>Provided by <a href="https://wakatime.com">Wakatime</a>, Displayed by Daveberry</p>
