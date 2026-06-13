@@ -36,6 +36,12 @@
     "description": "A simple and fast way to host your services without docker."
   },
   {
+    "name": "Pyder",
+    "url": "https://github.com/PinpointTools/Pyder",
+    "imageURL": "https://github.com/PinpointTools/Pyder/raw/main/icon/favicon.png",
+    "description": "Like Tauri and Wails, but for Python developers."
+  },
+  {
     "name": "LitV",
     "url": "https://github.com/daveberrys/LitV",
     "imageURL": "/images/where.png",
