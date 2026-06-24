@@ -76,5 +76,11 @@
     "url": "https://github.com/daveberrys/Guh",
     "imageURL": "/images/where.png",
     "description": "Too cool to use GitHub Desktop but stupid to not know how to use Git CLI? This is for you."
+  },
+  {
+    "name": "Tarch",
+    "url": "https://github.com/daveberrys/Tarch",
+    "imageURL": "https://github.com/daveberrys/Tarch/raw/main/other/TARCH%20LOGO.png",
+    "description": "pre-configured Arch Linux distro, with a focus of work, gaming, and productivity."
   }
 ]
