@@ -82,5 +82,11 @@
     "url": "https://github.com/daveberrys/Tarch",
     "imageURL": "https://github.com/daveberrys/Tarch/raw/main/other/TARCH%20LOGO.png",
     "description": "Pre-configured Arch Linux distro, with a focus of work, gaming, and productivity."
+  },
+  {
+    "name": "dv's interactive cli rs",
+    "url": "https://codeberg.org/dvs/dvs-interactive-cli-rs",
+    "imageURL": "/images/where.png",
+    "description": "A simple interactive CLI tool made in Rust."
   }
 ]
