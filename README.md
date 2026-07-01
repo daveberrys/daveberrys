@@ -22,6 +22,7 @@
     <li> <img src="https://github.com/daveberrys/EWgent/blob/main/icon/favicon.png?raw=true" alt="EWgent" width="24" height="24"> <a href="https://github.com/daveberrys/EWgent">EWgent</a>: <span>A tool to write a prompt before you send it to your preferred LLM.</span> </li>
     <li> <img src="/images/where.png" alt="Guh" width="24" height="24"> <a href="https://github.com/daveberrys/Guh">Guh</a>: <span>Too cool to use GitHub Desktop but stupid to not know how to use Git CLI? This is for you.</span> </li>
     <li> <img src="https://github.com/daveberrys/Tarch/raw/main/other/TARCH%20LOGO.png" alt="Tarch" width="24" height="24"> <a href="https://github.com/daveberrys/Tarch">Tarch</a>: <span>Pre-configured Arch Linux distro, with a focus of work, gaming, and productivity.</span> </li>
+    <li> <img src="/images/where.png" alt="dv's interactive cli rs" width="24" height="24"> <a href="https://codeberg.org/dvs/dvs-interactive-cli-rs">dv's interactive cli rs</a>: <span>A simple interactive CLI tool made in Rust.</span> </li>
   <!--END OF PROJECTS NAMES-->
 </ul>
 
