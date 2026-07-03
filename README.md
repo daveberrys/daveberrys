@@ -1,8 +1,8 @@
 <h2><img src="images/wavey.gif" width="50"> | Howdy.</h2>
 <p>
   Thanks for checkin' in. <br>
-  I don't have much going on, but <a href="https://codedave.pages.dev/">my website</a> has all the public infomation about me. <br>
-  If you do decide to hire me, you have the option for me to use <a href="https://opencode.ai">LLMs</a> or not. I will not fight back if yousay no.
+  I don't have much going on, but <a href="https://codedave.pages.dev/">my website</a> has all the public infomation about me. <br/>
+  I'm also in codeberg, <a href="https://codeberg.org/dvs">check me out here</a>.
 </p>
 
 <h2>🔧 | My projects. </h2>
