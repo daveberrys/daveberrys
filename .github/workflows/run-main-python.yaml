@@ -2,8 +2,8 @@ name: Run Python File
 
 on:
   push:
-    branches:
-      - main
+    paths:
+      - 'projects.json'
 
 env:
   python-version: 3.14.5
