@@ -23,6 +23,8 @@
     <li> <img src="/images/where.png" alt="Guh" width="24" height="24"> <a href="https://github.com/daveberrys/Guh">Guh</a>: <span>Too cool to use GitHub Desktop but stupid to not know how to use Git CLI? This is for you.</span> </li>
     <li> <img src="https://github.com/daveberrys/Tarch/raw/main/other/TARCH%20LOGO.png" alt="Tarch" width="24" height="24"> <a href="https://github.com/daveberrys/Tarch">Tarch</a>: <span>Pre-configured Arch Linux distro, with a focus of work, gaming, and productivity.</span> </li>
     <li> <img src="/images/where.png" alt="dv's interactive cli rs" width="24" height="24"> <a href="https://codeberg.org/dvs/dvs-interactive-cli-rs">dv's interactive cli rs</a>: <span>A simple interactive CLI tool made in Rust.</span> </li>
+    <li> <img src="/images/where.png" alt="Show Me Your Dot Files" width="24" height="24"> <a href="https://codeberg.org/dvs/ShowMeYourDotFiles">Show Me Your Dot Files</a>: <span>Create and share your dotfiles without needing the other person to download a extra package.</span> </li>
+    <li> <img src="/images/where.png" alt="Show My Niri RPC" width="24" height="24"> <a href="https://codeberg.org/dvs/ShowMyNiriRPC">Show My Niri RPC</a>: <span>Shows your niri workspace, what monitor is focused on, and what window you're currently focused on.</span> </li>
   <!--END OF PROJECTS NAMES-->
 </ul>
 
