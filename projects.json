@@ -88,5 +88,17 @@
     "url": "https://codeberg.org/dvs/dvs-interactive-cli-rs",
     "imageURL": "/images/where.png",
     "description": "A simple interactive CLI tool made in Rust."
+  },
+  {
+    "name": "Show Me Your Dot Files",
+    "url": "https://codeberg.org/dvs/ShowMeYourDotFiles",
+    "imageURL": "/images/where.png",
+    "description": "Create and share your dotfiles without needing the other person to download a extra package."
+  },
+  {
+    "name": "Show My Niri RPC",
+    "url": "https://codeberg.org/dvs/ShowMyNiriRPC",
+    "imageURL": "/images/where.png",
+    "description": "Shows your niri workspace, what monitor is focused on, and what window you're currently focused on."
   }
 ]
