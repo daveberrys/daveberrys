@@ -100,5 +100,11 @@
     "url": "https://codeberg.org/dvs/ShowMyNiriRPC",
     "imageURL": "/images/where.png",
     "description": "Shows your niri workspace, what monitor is focused on, and what window you're currently focused on."
+  },
+  {
+    "name": "LLM AutoDocs",
+    "url": "https://github.com/daveberrys/daveberrys",
+    "imageURL": "/images/where.png",
+    "description": "Tell your agent to write a documentation, and let it do it's thing. | Written by human, made for LLMs."
   }
 ]
