@@ -103,7 +103,7 @@
   },
   {
     "name": "LLM AutoDocs",
-    "url": "https://github.com/daveberrys/daveberrys",
+    "url": "https://codeberg.org/dvs/LLM-AutoDocs",
     "imageURL": "/images/where.png",
     "description": "Tell your agent to write a documentation, and let it do it's thing. | Written by human, made for LLMs."
   }
