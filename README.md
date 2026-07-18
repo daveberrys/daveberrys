@@ -26,6 +26,7 @@
     <li> <img src="/images/where.png" alt="Show Me Your Dot Files" width="24" height="24"> <a href="https://codeberg.org/dvs/ShowMeYourDotFiles">Show Me Your Dot Files</a>: <span>Create and share your dotfiles without needing the other person to download a extra package.</span> </li>
     <li> <img src="/images/where.png" alt="Show My Niri RPC" width="24" height="24"> <a href="https://codeberg.org/dvs/ShowMyNiriRPC">Show My Niri RPC</a>: <span>Shows your niri workspace, what monitor is focused on, and what window you're currently focused on.</span> </li>
     <li> <img src="/images/where.png" alt="LLM AutoDocs" width="24" height="24"> <a href="https://codeberg.org/dvs/LLM-AutoDocs">LLM AutoDocs</a>: <span>Tell your agent to write a documentation, and let it do it's thing. | Written by human, made for LLMs.</span> </li>
+    <li> <img src="/images/where.png" alt="Whispy" width="24" height="24"> <a href="https://codeberg.org/dvs/Whispy">Whispy</a>: <span>Tired of typing? This is the new way.</span> </li>
   <!--END OF PROJECTS NAMES-->
 </ul>
 
