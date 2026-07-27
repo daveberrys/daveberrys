@@ -112,5 +112,11 @@
     "url": "https://codeberg.org/dvs/Whispy",
     "imageURL": "/images/where.png",
     "description": "Tired of typing? This is the new way."
+  },
+  {
+    "name": "AppShortsies",
+    "url": "https://github.com/daveberrys/appshortsies",
+    "imageURL": "https://github.com/daveberrys/appshortsies/raw/main/.github/readme/AppShortsies.png",
+    "description": "An easier way to start your apps burried into the depths of folders."
   }
 ]
