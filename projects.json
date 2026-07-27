@@ -90,8 +90,8 @@
     "description": "A simple interactive CLI tool made in Rust."
   },
   {
-    "name": "Show Me Your Dot Files",
-    "url": "https://codeberg.org/dvs/ShowMeYourDotFiles",
+    "name": "Make Me Your Dot Files",
+    "url": "https://codeberg.org/dvs/MakeMeYourDotFiles",
     "imageURL": "/images/where.png",
     "description": "Create and share your dotfiles without needing the other person to download a extra package."
   },
