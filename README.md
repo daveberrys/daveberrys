@@ -33,7 +33,53 @@
 
 <h2>📈 | My Stats</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/daveberrys/daves-stats/refs/heads/main/profile/stats.svg" alt="Daveberry's GitHub Stats"/>
-  <img src="https://raw.githubusercontent.com/daveberrys/daves-stats/refs/heads/main/profile/toplangs.svg" alt="Daveberry's Top 6 Languages"/>
-  <p>Provided by <a href="https://wakatime.com">Wakatime</a></p>
+  <table>
+    <tr>
+        <td><b>Total Commits</b></td>
+        <td><b>Total PRs</b></td>
+        <td><b>Total Issues</b></td>
+        <td><b>Total Stars</b></td>
+    </tr>
+    <tr>
+      <!--START OF GITHUB TOTALCOMMITS-->
+        <td>1489</td>
+      <!--END OF GITHUB TOTALCOMMITS-->
+      <!--START OF GITHUB PRS-->
+        <td>19</td>
+      <!--END OF GITHUB PRS-->
+      <!--START OF GITHUB ISSUES-->
+        <td>4</td>
+      <!--END OF GITHUB ISSUES-->
+      <!--START OF GITHUB REPOSSTARS-->
+        <td>15</td>
+      <!--END OF GITHUB REPOSSTARS-->
+    </tr>
+  </table>
+  <p>Provided by <a href="https://github.com">GitHub</a>, Displayed by Daveberry</p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <!--START OF WAKATIME LANGUAGES-->
+        <td><b>Python</b></td>
+        <td><b>Svelte</b></td>
+        <td><b>JavaScript</b></td>
+        <td><b>Rust</b></td>
+        <td><b>TypeScript</b></td>
+        <td><b>Haxe</b></td>
+      <!--END OF WAKATIME LANGUAGES-->
+    </tr>
+    <tr>
+      <!--START OF WAKATIME TIME-->
+        <td>152 hrs 23 mins</td>
+        <td>130 hrs 28 mins</td>
+        <td>40 hrs 13 mins</td>
+        <td>32 hrs 45 mins</td>
+        <td>22 hrs 57 mins</td>
+        <td>21 hrs 41 mins</td>
+      <!--END OF WAKATIME TIME-->
+    </tr>
+  </table>
+  <p>Provided by <a href="https://wakatime.com">Wakatime</a>, Displayed by Daveberry</p>
 </div>

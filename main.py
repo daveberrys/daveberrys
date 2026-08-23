@@ -8,6 +8,8 @@ WAKATIME_SPACES = " " * 8
 PROJECTS_FORMAT = "list" # "table", "list"
 PROJECTS_SPACES = " " * 4
 
+GITHUB_SPACES = " " * 8
+
 def replaceSection(something, section, content, readme, spaces):
     return re.sub(
         rf"<!--START OF {something} {section}-->.*?<!--END OF {something} {section}-->",
@@ -75,7 +77,7 @@ def loadWakatime():
 
     limitedData = [d for d in limitedData if d["name"] not in ignoredLanguages][:6]
 
-    wakatimeLanguages = "\n".join(f'{WAKATIME_SPACES}<td>{d["name"]}</td>' for d in limitedData)
+    wakatimeLanguages = "\n".join(f'{WAKATIME_SPACES}<td><b>{d["name"]}</b></td>' for d in limitedData)
     wakatimeTime = "\n".join(f'{WAKATIME_SPACES}<td>{d["text"]}</td>' for d in limitedData)
     readme = replaceSection("WAKATIME", "LANGUAGES", wakatimeLanguages, readme, WAKATIME_SPACES)
     readme = replaceSection("WAKATIME", "TIME", wakatimeTime, readme, WAKATIME_SPACES)
@@ -87,7 +89,30 @@ def loadGithub():
     with open("README.md", "r") as f:
         readme = f.read()
 
-    # TODO: This
+    GITHUB_TOTAL_COMMITS_URL = "https://api.github.com/search/commits?q=author:daveberrys&per_page=1"
+    GITHUB_TOTAL_PR_URL = "https://api.github.com/search/issues?q=author:daveberrys+type:pr&per_page=1"
+    GITHUB_TOTAL_ISSUES_URL = "https://api.github.com/search/issues?q=author:daveberrys+type:issue&per_page=1"
+    GITHUB_TOTAL_REPOS_URL = "https://api.github.com/users/daveberrys/repos?per_page=100"
+
+    with urllib.request.urlopen(GITHUB_TOTAL_COMMITS_URL) as f:
+        githubData = json.load(f)
+    totalCommits = githubData["total_count"]
+    readme = replaceSection("GITHUB", "TOTALCOMMITS", f"{GITHUB_SPACES}<td>{totalCommits}</td>", readme, GITHUB_SPACES)
+
+    with urllib.request.urlopen(GITHUB_TOTAL_PR_URL) as f:
+        githubData = json.load(f)
+    totalPRs = githubData["total_count"]
+    readme = replaceSection("GITHUB", "PRS", f"{GITHUB_SPACES}<td>{totalPRs}</td>", readme, GITHUB_SPACES)
+
+    with urllib.request.urlopen(GITHUB_TOTAL_ISSUES_URL) as f:
+        githubData = json.load(f)
+    totalIssues = githubData["total_count"]
+    readme = replaceSection("GITHUB", "ISSUES", f"{GITHUB_SPACES}<td>{totalIssues}</td>", readme, GITHUB_SPACES)
+
+    with urllib.request.urlopen(GITHUB_TOTAL_REPOS_URL) as f:
+        githubData = json.load(f)
+    totalReposStars = sum(r['stargazers_count'] for r in githubData)
+    readme = replaceSection("GITHUB", "REPOSSTARS", f"{GITHUB_SPACES}<td>{totalReposStars}</td>", readme, GITHUB_SPACES)
 
     with open("README.md", "w") as f:
         f.write(readme)
