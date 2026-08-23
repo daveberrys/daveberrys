@@ -9,6 +9,7 @@ PROJECTS_FORMAT = "list" # "table", "list"
 PROJECTS_SPACES = " " * 4
 
 GITHUB_SPACES = " " * 8
+GITHUB_USERNAME = "daveberrys"
 
 def replaceSection(something, section, content, readme, spaces):
     return re.sub(
@@ -89,10 +90,10 @@ def loadGithub():
     with open("README.md", "r") as f:
         readme = f.read()
 
-    GITHUB_TOTAL_COMMITS_URL = "https://api.github.com/search/commits?q=author:daveberrys&per_page=1"
-    GITHUB_TOTAL_PR_URL = "https://api.github.com/search/issues?q=author:daveberrys+type:pr&per_page=1"
-    GITHUB_TOTAL_ISSUES_URL = "https://api.github.com/search/issues?q=author:daveberrys+type:issue&per_page=1"
-    GITHUB_TOTAL_REPOS_URL = "https://api.github.com/users/daveberrys/repos?per_page=100"
+    GITHUB_TOTAL_COMMITS_URL = f"https://api.github.com/search/commits?q=author:{GITHUB_USERNAME}&per_page=1"
+    GITHUB_TOTAL_PR_URL = f"https://api.github.com/search/issues?q=author:{GITHUB_USERNAME}+type:pr&per_page=1"
+    GITHUB_TOTAL_ISSUES_URL = f"https://api.github.com/search/issues?q=author:{GITHUB_USERNAME}+type:issue&per_page=1"
+    GITHUB_TOTAL_REPOS_URL = f"https://api.github.com/users/{GITHUB_USERNAME}/repos?per_page=100"
 
     with urllib.request.urlopen(GITHUB_TOTAL_COMMITS_URL) as f:
         githubData = json.load(f)
