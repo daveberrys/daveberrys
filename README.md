@@ -81,6 +81,8 @@
       <!--END OF WAKATIME TIME-->
     </tr>
   </table>
-  <p>Provided by <a href="https://wakatime.com">Wakatime</a>, Displayed by Daveberry</p>
-  <p>Most languages are not included, as they are not real languages.</p>
+  <p>
+      Provided by <a href="https://wakatime.com">Wakatime</a>, Displayed by Daveberry <br>
+      Most languages are not included, as they are not real languages.
+  </p>
 </div>
