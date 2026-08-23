@@ -40,9 +40,40 @@ def loadProjects():
 def loadWakatime():
     with urllib.request.urlopen(WAKATIME_URL) as f:
         data = json.load(f)
-        limitedData = data["data"][:6]
+        limitedData = data["data"]
     with open("README.md", "r") as f:
         readme = f.read()
+
+    ignoredLanguages = [
+        "Markdown",
+        "HTML",
+        "CSS",
+        "JSON",
+        "YAML",
+        "Other",
+        "Text",
+        "TOML",
+        "git ignore",
+        "RPMSpec",
+        "XML",
+        "Git Config",
+        "jsonc",
+        "go mod",
+        "Desktop file",
+        "Image (svg)",
+        "TSConfig",
+        "CSV",
+        "INI",
+        "conf",
+        "Java Properties",
+        "TableGen",
+        "Apache Config",
+        "CMake",
+        "systemd",
+        "Checksums"
+    ]
+
+    limitedData = [d for d in limitedData if d["name"] not in ignoredLanguages][:6]
 
     wakatimeLanguages = "\n".join(f'{WAKATIME_SPACES}<td>{d["name"]}</td>' for d in limitedData)
     wakatimeTime = "\n".join(f'{WAKATIME_SPACES}<td>{d["text"]}</td>' for d in limitedData)
@@ -52,8 +83,18 @@ def loadWakatime():
     with open("README.md", "w") as f:
         f.write(readme)
 
+def loadGithub():
+    with open("README.md", "r") as f:
+        readme = f.read()
+
+    # TODO: This
+
+    with open("README.md", "w") as f:
+        f.write(readme)
+
 try:
     loadProjects()
-    # loadWakatime()
+    loadWakatime()
+    loadGithub()
 except Exception as e:
     print(e)
