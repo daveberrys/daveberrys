@@ -66,18 +66,18 @@
         <td><b>Svelte</b></td>
         <td><b>JavaScript</b></td>
         <td><b>Rust</b></td>
-        <td><b>Haxe</b></td>
         <td><b>TypeScript</b></td>
+        <td><b>Haxe</b></td>
       <!--END OF WAKATIME LANGUAGES-->
     </tr>
     <tr>
       <!--START OF WAKATIME TIME-->
         <td>156 hrs 24 mins</td>
-        <td>135 hrs 15 mins</td>
+        <td>136 hrs 11 mins</td>
         <td>40 hrs 23 mins</td>
-        <td>33 hrs 36 mins</td>
+        <td>34 hrs 1 min</td>
+        <td>23 hrs</td>
         <td>22 hrs 59 mins</td>
-        <td>22 hrs 58 mins</td>
       <!--END OF WAKATIME TIME-->
     </tr>
   </table>
