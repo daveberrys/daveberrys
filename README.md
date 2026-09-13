@@ -65,19 +65,19 @@
         <td><b>Python</b></td>
         <td><b>Svelte</b></td>
         <td><b>JavaScript</b></td>
-        <td><b>Rust</b></td>
         <td><b>Haxe</b></td>
+        <td><b>Rust</b></td>
         <td><b>TypeScript</b></td>
       <!--END OF WAKATIME LANGUAGES-->
     </tr>
     <tr>
       <!--START OF WAKATIME TIME-->
         <td>156 hrs 36 mins</td>
-        <td>137 hrs 27 mins</td>
+        <td>138 hrs 15 mins</td>
         <td>40 hrs 23 mins</td>
-        <td>34 hrs 51 mins</td>
-        <td>30 hrs 59 mins</td>
-        <td>23 hrs 1 min</td>
+        <td>37 hrs 34 mins</td>
+        <td>35 hrs 2 mins</td>
+        <td>23 hrs 3 mins</td>
       <!--END OF WAKATIME TIME-->
     </tr>
   </table>
