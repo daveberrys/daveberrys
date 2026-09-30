@@ -42,10 +42,10 @@
     </tr>
     <tr>
       <!--START OF GITHUB TOTALCOMMITS-->
-        <td>1598</td>
+        <td>1599</td>
       <!--END OF GITHUB TOTALCOMMITS-->
       <!--START OF GITHUB PRS-->
-        <td>20</td>
+        <td>21</td>
       <!--END OF GITHUB PRS-->
       <!--START OF GITHUB ISSUES-->
         <td>4</td>
