@@ -73,8 +73,8 @@
     <tr>
       <!--START OF WAKATIME TIME-->
         <td>157 hrs 21 mins</td>
-        <td>147 hrs 22 mins</td>
-        <td>40 hrs 35 mins</td>
+        <td>147 hrs 31 mins</td>
+        <td>40 hrs 52 mins</td>
         <td>39 hrs 43 mins</td>
         <td>36 hrs 4 mins</td>
         <td>23 hrs 10 mins</td>
