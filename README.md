@@ -1,6 +1,6 @@
 <h2><img src="images/wavey.gif" width="50"> | Howdy.</h2>
 <p>
-  Thanks for checkin' in, <a href="https://codedave.pages.dev/">my website</a> has all the public infomation about me. <br/>
+  Thanks for checkin' in, <a href="https://blueson.tech/">my website</a> has all the public infomation about me. <br/>
   I don't ask for a <b>star</b> that often, but it helps me out. <br/>
   I'm also in codeberg, <a href="https://codeberg.org/dvs">check me out here</a>.
 </p>
