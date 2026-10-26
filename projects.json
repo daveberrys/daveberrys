@@ -118,5 +118,11 @@
     "url": "https://github.com/daveberrys/appshortsies",
     "imageURL": "https://github.com/daveberrys/appshortsies/raw/main/.github/readme/AppShortsies.png",
     "description": "An easier way to start your apps burried into the depths of folders."
+  },
+  {
+    "name": "PacHelp",
+    "url": "https://github.com/daveberrys/pachelp",
+    "imageURL": "https://github.com/daveberrys/pachelp/blob/master/assets/icon.png?raw=true",
+    "description": "A pacman and AUR (paru/yay) helper made in pure rust and egui."
   }
 ]
