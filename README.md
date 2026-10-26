@@ -28,6 +28,7 @@
     <li> <img src="/images/where.png" alt="LLM AutoDocs" width="24" height="24"> <a href="https://codeberg.org/dvs/LLM-AutoDocs">LLM AutoDocs</a>: <span>Tell your agent to write a documentation, and let it do it's thing. | Written by human, made for LLMs.</span> </li>
     <li> <img src="/images/where.png" alt="Whispy" width="24" height="24"> <a href="https://codeberg.org/dvs/Whispy">Whispy</a>: <span>Tired of typing? This is the new way.</span> </li>
     <li> <img src="https://github.com/daveberrys/appshortsies/raw/main/.github/readme/AppShortsies.png" alt="AppShortsies" width="24" height="24"> <a href="https://github.com/daveberrys/appshortsies">AppShortsies</a>: <span>An easier way to start your apps burried into the depths of folders.</span> </li>
+    <li> <img src="https://github.com/daveberrys/pachelp/blob/master/assets/icon.png?raw=true" alt="PacHelp" width="24" height="24"> <a href="https://github.com/daveberrys/pachelp">PacHelp</a>: <span>A pacman and AUR (paru/yay) helper made in pure rust and egui.</span> </li>
   <!--END OF PROJECTS NAMES-->
 </ul>
 
