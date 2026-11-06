@@ -43,13 +43,13 @@
     </tr>
     <tr>
       <!--START OF GITHUB TOTALCOMMITS-->
-        <td>1802</td>
+        <td>1810</td>
       <!--END OF GITHUB TOTALCOMMITS-->
       <!--START OF GITHUB PRS-->
         <td>24</td>
       <!--END OF GITHUB PRS-->
       <!--START OF GITHUB ISSUES-->
-        <td>4</td>
+        <td>7</td>
       <!--END OF GITHUB ISSUES-->
       <!--START OF GITHUB REPOSSTARS-->
         <td>17</td>
@@ -63,8 +63,8 @@
   <table>
     <tr>
       <!--START OF WAKATIME LANGUAGES-->
-        <td><b>Python</b></td>
         <td><b>Svelte</b></td>
+        <td><b>Python</b></td>
         <td><b>Rust</b></td>
         <td><b>JavaScript</b></td>
         <td><b>Haxe</b></td>
@@ -73,12 +73,12 @@
     </tr>
     <tr>
       <!--START OF WAKATIME TIME-->
+        <td>161 hrs 15 mins</td>
         <td>160 hrs 30 mins</td>
-        <td>158 hrs 28 mins</td>
-        <td>44 hrs 27 mins</td>
-        <td>43 hrs 26 mins</td>
+        <td>44 hrs 28 mins</td>
+        <td>43 hrs 39 mins</td>
         <td>39 hrs 43 mins</td>
-        <td>24 hrs 52 mins</td>
+        <td>24 hrs 53 mins</td>
       <!--END OF WAKATIME TIME-->
     </tr>
   </table>
