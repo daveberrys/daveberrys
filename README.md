@@ -43,13 +43,13 @@
     </tr>
     <tr>
       <!--START OF GITHUB TOTALCOMMITS-->
-        <td>1810</td>
+        <td>1818</td>
       <!--END OF GITHUB TOTALCOMMITS-->
       <!--START OF GITHUB PRS-->
         <td>24</td>
       <!--END OF GITHUB PRS-->
       <!--START OF GITHUB ISSUES-->
-        <td>7</td>
+        <td>8</td>
       <!--END OF GITHUB ISSUES-->
       <!--START OF GITHUB REPOSSTARS-->
         <td>17</td>
