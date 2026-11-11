@@ -49,7 +49,7 @@
         <td>24</td>
       <!--END OF GITHUB PRS-->
       <!--START OF GITHUB ISSUES-->
-        <td>11</td>
+        <td>12</td>
       <!--END OF GITHUB ISSUES-->
       <!--START OF GITHUB REPOSSTARS-->
         <td>18</td>
