@@ -4,7 +4,7 @@
   If you find my apps useful, consider giving it a star! <br/>
 </p>
 
-<a href="https://blueson.tech"><img src="images/daveberry-web.gif" width="128"></a>
+<a href="https://blueson.tech"><img src="images/daveberry-web.gif" width="256"></a>
 
 <h2>🔧 - My projects. </h2>
 <ul>
