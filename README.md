@@ -9,7 +9,7 @@
 <h2>🔧 - My projects. </h2>
 <ul>
   <!--START OF PROJECTS NAMES-->
-    <li> <img src="https://camo.githubusercontent.com/493b7431c82f35a9940cf7ec240223345844de4f8dad7954256bf19b4a54d02f/68747470733a2f2f6e6f74657465642e6e65746c6966792e6170702f6173736574732f4e54442e706e67" alt="Noteted" width="24" height="24"> <a href="https://github.com/Noteted/Noteted">Noteted</a>: <span>A note taking app made with customtkinter. This project has been dropped due to having issues with the customtkinter library.</span> </li>
+    <li> <img src="https://github.com/noteted.png" alt="Noteted" width="24" height="24"> <a href="https://github.com/Noteted/Noteted">Noteted</a>: <span>A note taking app made with customtkinter. This project has been dropped due to having issues with the customtkinter library.</span> </li>
     <li> <img src="https://github.com/Creativity-Archived/Creativity-Archived/raw/main/static/images/icons/website/Creativity%20Archived%20-%20white.png?raw=true" alt="Creativity Archived" width="24" height="24"> <a href="https://github.com/Creativity-Archived/Creativity-Archived">Creativity Archived</a>: <span>A place to share games, software, and many other creative content that you desire.</span> </li>
     <li> <img src="https://github.com/PinpointTools/VLC.UTILS/raw/main/icon/VLC.UTILS.png" alt="VLC.UTILS" width="24" height="24"> <a href="https://github.com/PinpointTools/VLC.UTILS">VLC.UTILS</a>: <span>Share your current playing in VLC to LastFM to scrobble, and show off to your friends using Discord RPC.</span> </li>
     <li> <img src="https://github.com/PinpointTools/SendYourFiles-RW/raw/main/public/icons/512/syf.png" alt="Send Your Files" width="24" height="24"> <a href="https://github.com/PinpointTools/SendYourFiles-RW">Send Your Files</a>: <span>A way to share your files to different providers.</span> </li>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <!--START OF GITHUB TOTALCOMMITS-->
-        <td>1911</td>
+        <td>1912</td>
       <!--END OF GITHUB TOTALCOMMITS-->
       <!--START OF GITHUB PRS-->
         <td>24</td>
