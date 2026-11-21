@@ -1,11 +1,12 @@
-<h2><img src="images/wavey.gif" width="50"> | Howdy.</h2>
+<h2><img src="images/wavey.gif" width="50"> - Howdy.</h2>
 <p>
-  Thanks for checkin' in, <a href="https://blueson.tech/">my website</a> has all the public infomation about me. <br/>
-  I don't ask for a <b>star</b> that often, but it helps me out. <br/>
-  I'm also in codeberg, <a href="https://codeberg.org/dvs">check me out here</a>.
+  Thanks for stopping by! I'm Daveberry, Software engineer and artist. <br/>
+  If you find my apps useful, consider giving it a star! <br/>
 </p>
 
-<h2>🔧 | My projects. </h2>
+<a href="https://blueson.tech"><img src="images/daveberry-web.gif" width="128"></a>
+
+<h2>🔧 - My projects. </h2>
 <ul>
   <!--START OF PROJECTS NAMES-->
     <li> <img src="https://camo.githubusercontent.com/493b7431c82f35a9940cf7ec240223345844de4f8dad7954256bf19b4a54d02f/68747470733a2f2f6e6f74657465642e6e65746c6966792e6170702f6173736574732f4e54442e706e67" alt="Noteted" width="24" height="24"> <a href="https://github.com/Noteted/Noteted">Noteted</a>: <span>A note taking app made with customtkinter. This project has been dropped due to having issues with the customtkinter library.</span> </li>
@@ -32,7 +33,7 @@
   <!--END OF PROJECTS NAMES-->
 </ul>
 
-<h2>📈 | My Stats</h2>
+<h2>📈 - My Stats</h2>
 <div align="center">
   <table>
     <tr>
