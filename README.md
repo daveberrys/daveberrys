@@ -47,7 +47,7 @@
         <td>1961</td>
       <!--END OF GITHUB TOTALCOMMITS-->
       <!--START OF GITHUB PRS-->
-        <td>24</td>
+        <td>25</td>
       <!--END OF GITHUB PRS-->
       <!--START OF GITHUB ISSUES-->
         <td>12</td>
