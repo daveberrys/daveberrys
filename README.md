@@ -50,7 +50,7 @@
         <td>25</td>
       <!--END OF GITHUB PRS-->
       <!--START OF GITHUB ISSUES-->
-        <td>12</td>
+        <td>13</td>
       <!--END OF GITHUB ISSUES-->
       <!--START OF GITHUB REPOSSTARS-->
         <td>18</td>
@@ -79,7 +79,7 @@
         <td>63 hrs 38 mins</td>
         <td>46 hrs 30 mins</td>
         <td>39 hrs 44 mins</td>
-        <td>28 hrs 17 mins</td>
+        <td>28 hrs 30 mins</td>
       <!--END OF WAKATIME TIME-->
     </tr>
   </table>
