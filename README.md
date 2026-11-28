@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <!--START OF GITHUB TOTALCOMMITS-->
-        <td>1971</td>
+        <td>1972</td>
       <!--END OF GITHUB TOTALCOMMITS-->
       <!--START OF GITHUB PRS-->
         <td>25</td>
